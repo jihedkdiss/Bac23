@@ -1,2 +1,2 @@
-# Bac23
- A variety of solutions to different Bac exercices in Python & Java.
+# SolutionsBacTunisie
+Ce dépôt contient des solutions en Python et en pseudocode aux différents problèmes d'algorithmique qui peuvent être rencontrés lors des examens de baccalauréat en Tunisie. Il a pour objectif de fournir un support de référence aux étudiants qui se préparent à ces examens et qui souhaitent améliorer leurs compétences en algorithmique. Les solutions proposées ont été testées et vérifiées afin de garantir leur exactitude. N'hésitez pas à contribuer et à soumettre vos propres solutions pour enrichir ce dépôt!
